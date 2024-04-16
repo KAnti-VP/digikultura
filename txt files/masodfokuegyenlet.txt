@@ -1,0 +1,6 @@
+Természetesen, itt van átírva a másodfokú egyenlet megoldóképletére:
+
+Ha egy másodfokú egyenlet ax^2 + bx + c = 0 alakú, akkor a gyök megoldásokat a következő képlet segítségével kaphatjuk meg: x = (-b ± √(b^2 - 4ac)) / (2a). 
+
+Példa:
+Ha az egyenletünk például 2x^2 + 5x - 3 = 0, akkor a gyökök: x = (-5 ± √(5^2 - 4*2*(-3))) / (2*2).
